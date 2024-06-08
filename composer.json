@@ -1,0 +1,21 @@
+{
+    "name": "admin/base_wd18407",
+    "autoload": {
+        "psr-4": {
+            "Admin\\BaseWd18407\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "lquanghuy04",
+            "email": "huylqph44963@fpt.edu.vn"
+        }
+    ],
+    "require": {
+        "bramus/router": "~1.6",
+        "eftec/bladeone": "^4.13",
+        "doctrine/dbal": "^4.0",
+        "rakit/validation": "^1.4",
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
